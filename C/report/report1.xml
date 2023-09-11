@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.166" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Cucumber OPtions Demo" name="MonoChrome" time="0.008">
+<system-out><![CDATA[
+Given goto url..............................................................passed
+When enter hai..............................................................passed
+Then enter something........................................................passed
+Then goto something.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
