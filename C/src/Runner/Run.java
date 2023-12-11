@@ -6,7 +6,10 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="FeatureFile/Background.feature",glue={"Bank","HookDemo"}
+@CucumberOptions(features="FeatureFile/DTWOH1.feature",glue={"Bank"},
+dryRun=true
+ 
+ 
  
 		)
 
